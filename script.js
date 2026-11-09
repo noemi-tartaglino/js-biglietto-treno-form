@@ -9,4 +9,7 @@ function calcolaBiglietto () {
     } else {
         prezzo=prezzo;
     }
-    console.log(prezzo);    
+    console.log(prezzo); 
+ }
+ 
+   
